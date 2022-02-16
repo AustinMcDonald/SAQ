@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name SAQ)(type Legacy)(uri ${KIPRJMOD}/SAQ.lib)(options "")(descr ""))
+)
