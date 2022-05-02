@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name SRF0905-100Y)(type KiCad)(uri ${KIPRJMOD}/SRF0905-100Y)(options "")(descr ""))
+)
